@@ -1,7 +1,7 @@
 # WaveShare ESP32 S3 LCD 1.69 TFT GIF Display Project
 
 This project demonstrates displaying GIFs, BMPs, 
-on an ST7789 TFT screen using an ESP32 S3 LCD 1.69 and ESP32 C6 LCD 1.47. It also supports  FFat for file handling.
+on an ST7789 TFT screen using an ESP32 S3 LCD 1.69 and ESP32 C6 LCD 1.47. It also supports  FFat for file handling. Python code to convert .gif to .h file
 
 ## Features
 - Display GIF animations, BMP images.
