@@ -14,6 +14,8 @@ on an ST7789 TFT screen using an ESP32 S3 LCD 1.69 and ESP32 C6 LCD 1.47. It als
 - ESP32 C6 LCD 1.47
 - ST7789 TFT display
 
+<img src="ffts.mp4" width="800" />
+
 
 ## Software Requirements
 - Arduino IDE with the following libraries:
