@@ -9,7 +9,7 @@ on an ST7789 TFT screen using an ESP32 S3 LCD 1.69 and ESP32 C6 LCD 1.47. It als
 - TFT screen brightness control with PWM.
 - File listing and partition information display.
 
-<img src="IMG_17172.gif" width="800" />
+<img src="IMG_17172.gif" width="400" />
 
 
 ## Hardware Requirements
